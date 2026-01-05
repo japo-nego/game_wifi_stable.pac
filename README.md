@@ -1,2 +1,3 @@
-# game_wifi_stable.pac
-Ooo
+function FindProxyForURL(url, host) {
+    return "DIRECT";
+}
